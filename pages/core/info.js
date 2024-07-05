@@ -131,7 +131,7 @@ const changedInfo = {
   iframeMapLink: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d157.81514247321687!2d-1.7809978!3d50.7377047!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48739eba88ca56ef%3A0x1f7a25d8a0e5d4ac!2sSusu%20Nails!5e0!3m2!1sen!2s!4v1720065071256!5m2!1sen!2s",
 
   // Các ảnh của tiệm
-  ogImage:"",
+  ogImage:"https://susunails.web.app/images/desktop-nail-salon-happy-customer-1.jpg",
   icon:"/icon.jpg",
   businessLogo:"/logo.jpg",
 }
