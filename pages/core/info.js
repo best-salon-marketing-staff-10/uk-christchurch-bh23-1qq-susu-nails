@@ -112,7 +112,7 @@ const changedInfo = {
   businessPhoneNumber: "01202488568",
 
   //Website tiệm KO có dấu / ở cuối
-  businessWebsite: "",
+  businessWebsite: "https://susunails.co.uk",
 
   linkBookingMap: "",
   linkBookingApp: "https://bit.ly/3RU14Gu",
@@ -125,13 +125,13 @@ const changedInfo = {
   geoLongitude: -1.7809925652348297,
 
   //Code xác minh của website trên Google Search
-  metaGoogleSiteVerification: "",
+  metaGoogleSiteVerification: "JtAv3Qtyg7W8N-moGvBlAsVDl877awdKE0S72xVIf1E",
 
   //iframe map
   iframeMapLink: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d157.81514247321687!2d-1.7809978!3d50.7377047!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48739eba88ca56ef%3A0x1f7a25d8a0e5d4ac!2sSusu%20Nails!5e0!3m2!1sen!2s!4v1720065071256!5m2!1sen!2s",
 
   // Các ảnh của tiệm
-  ogImage:"https://susunails.web.app/images/desktop-nail-salon-happy-customer-1.jpg",
+  ogImage:"https://susunails.co.uk/images/desktop-nail-salon-happy-customer-1.jpg",
   icon:"/icon.jpg",
   businessLogo:"/logo.jpg",
 }
@@ -390,9 +390,9 @@ const schemaInput = {
   schemaImage9: "/images/gel-nails-shellac-nails-4.jpg",
   schemaImage10: "/images/gel-nails-shellac-nails-5.jpg",
   schemaImage11: "/images/nail-design-1.jpg",
-  schemaImage12: "/images/nail-design-2.jpg",
-  schemaImage13: "/images/nail-design-3.jpg",
-  schemaImage14: "/images/nail-design-4.jpg",
+  schemaImage12: "/images/nail-design-2-2.jpg",
+  schemaImage13: "/images/nail-design-3-2.jpg",
+  schemaImage14: "/images/nail-design-4-2.jpg",
   schemaImage15: "/images/nail-design-5.jpg",
   schemaImage16: "/images/pedicure-1.jpg",
   schemaImage17: "/images/pedicure-2.jpg",
@@ -763,9 +763,9 @@ const images = {
   serviceList4Image5: "/images/hair-wash-5.jpg",
 
   serviceList5Image1: "/images/nail-design-1.jpg",
-  serviceList5Image2: "/images/nail-design-2.jpg",
-  serviceList5Image3: "/images/nail-design-3.jpg",
-  serviceList5Image4: "/images/nail-design-4.jpg",
+  serviceList5Image2: "/images/nail-design-2-2.jpg",
+  serviceList5Image3: "/images/nail-design-3-2.jpg",
+  serviceList5Image4: "/images/nail-design-4-2.jpg",
   serviceList5Image5: "/images/nail-design-5.jpg",
 
   serviceList6Image1: "/images/waxing-1.jpg",
