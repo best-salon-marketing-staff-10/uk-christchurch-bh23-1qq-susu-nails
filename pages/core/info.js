@@ -1284,7 +1284,7 @@ const images = {
 
     service3: "Manicure Shellac",
     service3Time: "30 mins",
-    service3Price: "20",
+    service3Price: "30",
     service3Description: "Manicures are a difficult art to master. No matter how great they look when finished, they seem to always chip within days, if not in a matter of hours. Enter the Gel nail manicure - a groundbreaking technique that uses gel polishes that get 'cured' under UV lights. The result? Shiny, strong nails for weeks and no drying time!",
 
     service4: "Pedicure Shellac",
