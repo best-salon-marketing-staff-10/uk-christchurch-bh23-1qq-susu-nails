@@ -681,21 +681,12 @@ iframe {
   font-size: 21px;
 }
 
-.nav-bar-services-sub-category {
-  margin-top: 15px;
-}
-
 .nav-bar-services-sub-category-details {
   text-decoration: none;
   color: #B0B7C3;
   font-weight: 500;
   font-size: 21px;
   margin-left: 15px;
-  margin-bottom: 10px;
-}
-
-.nav-bar-services {
-  margin-bottom: 20px;
 }
 
 .nav-bar-main-category {

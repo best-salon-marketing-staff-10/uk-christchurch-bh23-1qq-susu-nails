@@ -349,7 +349,7 @@ const processedInfo = {
 }
 
 const headerInput = {
-  headerTitle: "The best " + seoKeyword.seoKeyword15 + " - " + changedInfo.businessName,
+  headerTitle: "The best " + seoKeyword.seoKeyword15 +  ", " + seoInfo.localKeyword2 + ", UK" +" - " + changedInfo.businessName,
   metaDescription: "We are one of the best " + seoKeyword.seoKeyword1 + ". " + "Please come and make yourself at home here at our nail salon. " + seoInfo.localKeyword1 ,
   relIcon: changedInfo.icon,
   relCanonical: changedInfo.businessWebsite,
